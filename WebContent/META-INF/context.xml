@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE context>
+<Context>
+<Resource name="jdbc/ksidb" auth="Container" type="javax.sql.DataSource"
+               maxTotal="8"
+               driverClassName="org.apache.derby.jdbc.EmbeddedDriver"
+               url="jdbc:derby:D:/DerbyDbs/ksidb"/>
+</Context>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 01 17:08:49 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0172-706d-9631-000007488730 
+on database directory C:\Users\domlu\eclipse-workspace2\TPO3_LD_S17226\ksidb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7699a589 
+Loaded from file:/C:/Users/domlu/eclipse-workspace2/TPO3_LD_S17226/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14+36-1461
+user.dir=C:\Users\domlu\eclipse-workspace2\TPO3_LD_S17226
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\domlu\eclipse-workspace2\TPO3_LD_S17226
+Database Class Loader started - derby.database.classpath=''
